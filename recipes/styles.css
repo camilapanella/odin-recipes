@@ -1,0 +1,23 @@
+.recipe-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.list {
+    background-color: aquamarine;
+}
+
+.item {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.subt {
+    color: plum;
+}
+
+.h2{
+    color: purple;
+}
+
+.recipe-ing {}
